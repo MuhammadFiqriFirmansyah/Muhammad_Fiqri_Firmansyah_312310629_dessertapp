@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dessert App</string>
+    <string name="menu_title">Dessert Menu</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="payment_instructions">Scan the QR code above to complete your payment</string>
+    <string name="back_to_menu">Back to Menu</string>
+</resources>
